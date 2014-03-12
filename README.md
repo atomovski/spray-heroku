@@ -1,7 +1,7 @@
 Simple Spray.io on Heroky POC
 -----------------------------------
-Project based on: Spray-Workshop https://github.com/spray/spray-workshop
-Added sbt-start-script https://github.com/sbt/sbt-start-script to create a start script.
+ * Project based on: Spray-Workshop https://github.com/spray/spray-workshop
+ * Added sbt-start-script https://github.com/sbt/sbt-start-script to create a start script.
 
 Running the project
 -----------------------------------

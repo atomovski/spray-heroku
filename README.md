@@ -11,12 +11,12 @@ Running the project
  * Locally using sbt `sbt re-start`
  * Locally using foreman `sbt clean compile stage` and then `foreman start`
  * On [Heroku](https://devcenter.heroku.com/articles/getting-started-with-scala)
- ```sh
+```sh
  heroku login
  heroku create
  git push heroku master
  heroku ps:scale web=1
  heroku open
- ```
+```
 
 
